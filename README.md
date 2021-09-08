@@ -1,16 +1,12 @@
 # flutter_live
 
-A new Flutter project.
+一个基于flutter的直播demo
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+支持Android/iOS 显示直播画面需要使用真机 直接运行就可以 推荐VSCode
 
-A few resources to get you started if this is your first Flutter project:
+播放器使用的是自己封装的腾讯播放器
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+效果图
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
